@@ -1,6 +1,6 @@
-artifact_location: file:///h:/kuliah/sastra_mesin/mlruns/0
-creation_time: 1697896548882
+artifact_location: mlflow-artifacts:/0
+creation_time: 1697903194155
 experiment_id: '0'
-last_update_time: 1697896548882
+last_update_time: 1697903194155
 lifecycle_stage: active
 name: Default
